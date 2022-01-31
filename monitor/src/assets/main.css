@@ -1,0 +1,48 @@
+@import url(https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url(https://getbootstrap.com/docs/4.0/dist/css/bootstrap.min.css);
+@import url(https://getbootstrap.com/docs/4.0/examples/album/album.css);
+
+
+.block {
+    bottom: 10px;
+    text-align: center;
+    display: inline-block;
+    }
+.circle {
+font-size: 15px;
+background: white;
+border-radius: 200px;
+color: white;
+height: 170px;
+font-weight: bolder;
+width: 170px;
+display: inline-table;
+margin: 10px;
+}
+.circle p {
+vertical-align: middle;
+display: table-cell;
+}
+                    .a {
+                    background-color: #39c0dc;
+                    }
+                    .b {
+                    background-color: darkorange;
+                    }
+                    .c {
+                    background-color: #5c6dfd;
+                    }
+                    .d {
+                    background-color: #f14c6e;
+                    }
+                    .g {
+                    background-color: greenyellow;
+                    }
+                    .f{
+                    background-color: fuchsia;
+                    }
+
+.submit-form {
+    max-width: 300px;
+    margin: auto;
+}
